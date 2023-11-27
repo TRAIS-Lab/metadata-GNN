@@ -26,3 +26,19 @@ The above two libraries' README files contain sufficient information to install 
 ### Run the Code
 
 The notebook can be complied via Google Colab. Note that we do not provide dataloader to load the pre-generated datasets. The conclusion and discussion made in the paper are consistant if we use different random datasets generated with the same set of GraphWorld parameters.
+
+
+## Citation
+
+If you find this repo helpful for your research, please consider citing our paper below.
+
+```latex
+@misc{li2023metadatadriven,
+      title={A Metadata-Driven Approach to Understand Graph Neural Networks}, 
+      author={Ting Wei Li and Qiaozhu Mei and Jiaqi Ma},
+      year={2023},
+      eprint={2310.19263},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
