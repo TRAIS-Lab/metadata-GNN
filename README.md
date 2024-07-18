@@ -33,12 +33,11 @@ The notebook can be complied via Google Colab. Note that we do not provide datal
 If you find this repo helpful for your research, please consider citing our paper below.
 
 ```latex
-@misc{li2023metadatadriven,
-      title={A Metadata-Driven Approach to Understand Graph Neural Networks}, 
-      author={Ting Wei Li and Qiaozhu Mei and Jiaqi Ma},
-      year={2023},
-      eprint={2310.19263},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{li2024metadata,
+  title={A metadata-driven approach to understand graph neural networks},
+  author={Li, Ting Wei and Mei, Qiaozhu and Ma, Jiaqi},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  year={2024}
 }
 ```
